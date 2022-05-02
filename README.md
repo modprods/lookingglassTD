@@ -52,6 +52,6 @@ This is a plugin that will display content authored in TouchDesigner on the Look
 
 
 ## Contributors
-* @ruigato portrait mode testing and implementation!! 🙌 🙌 🙌
+* @ruigato and @smrl portrait mode testing and implementation!! 🙌 🙌 🙌
 * @matthewhaber
 * @picturesbyrobots
